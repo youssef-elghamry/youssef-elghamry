@@ -52,4 +52,4 @@ Open to collaboration on AI, Deep Learning, Computer Vision, and IoT projects.
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=youssef-elghamry&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=youssef-elghamry&color=blue)](https://github.com/youssef-elghamry)
